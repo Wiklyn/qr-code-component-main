@@ -1,0 +1,64 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Outfit", sans-serif;
+}
+
+:root {
+  --white: hsl(0, 0%, 100%);
+  --light-grey: hsl(212, 45%, 89%);
+  --grayish-blue: hsl(220, 15%, 55%);
+  --dark-blue: hsl(218, 44%, 22%);
+}
+
+body {
+  background-color: var(--light-grey);
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.main {
+  background-color: var(--white);
+  height: 475px;
+  width: 300px;
+  margin: auto;
+  border-radius: 22px;
+  display: flex;
+  flex-direction: column;
+  padding: 15px;
+}
+
+.main img {
+  border-radius: 12px;
+  margin-bottom: 20px;
+}
+
+.main h2 {
+  color: var(--dark-blue);
+  font-size: 22px;
+  text-align: center;
+  padding: 5px;
+}
+
+.main p {
+  color: var(--grayish-blue);
+  font-size: 15px;
+  text-align: center;
+  padding: 13px;
+}
+
+
+/* standard code that comes with the challenge */
+.attribution {
+  font-size: 15px; /* original was 11px */
+  text-align: center;
+  margin-bottom: 5px; /* original had no margin-bottom */
+}
+.attribution a {
+  color: hsl(0, 0%, 0%);
+}
+
