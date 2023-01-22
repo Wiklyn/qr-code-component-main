@@ -16,7 +16,7 @@ It's a simple challenge. It's only needed some HTML5 e CSS3 knowledge to get it 
 
 ## My process
 
-I started by making the HTML5 part. I wrote the code on one div divided on an img, an h2 header and a paragraph. I kept the div that came with the project and put it on the lower part of the screen. After that I went to the CSS3 part to put the styles requested, and followed the information sent on the `style-guide.md` file. In this part I used a Mobile-first workflow, but then I realized there was no diference between the designs given as models, besides the size of the screen. So I kept only one style for both of the screens.
+I started by making the HTML5 part. I wrote the code on one div divided on an img, an h2 header and a paragraph. I kept the div that came with the project and put it on the lower part of the screen. After that I went to the CSS3 part to put the styles requested, and followed the information sent on the `style-guide.md` file. In this part I used a Mobile-first workflow, but then I realized there was no difference between the designs given as models, besides the size of the screen. So I kept only one style for both of the screens.
 
 ### Built with
 
