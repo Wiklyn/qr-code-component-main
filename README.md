@@ -9,6 +9,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Built with](#built-with)
   - [Useful resources](#built-with)
 - [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -35,3 +36,6 @@ I started by making the HTML5 part. I wrote the code on one div divided on an im
 - LinkedIn - [www.linkedin.com/in/wiklyn-craveiro]
 - Frontend Mentor - [@Wiklyn](https://www.frontendmentor.io/profile/Wiklyn)
 
+## Acknowledgments
+
+On a previous version of this code I got some really good suggestions in respect to web accessibility from Melvin Aguilar (MelvinAguilar on GitHub). I put them on practice and made some changes on the code.
