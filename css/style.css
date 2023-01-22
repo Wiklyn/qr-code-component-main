@@ -18,10 +18,16 @@ body {
   background-color: var(--light-grey);
   display: flex;
   flex-direction: column;
-  height: 100vh;
+  min-height: 100vh;
 }
 
-.main {
+main {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.container {
   background-color: var(--white);
   height: 475px;
   width: 300px;
@@ -32,21 +38,21 @@ body {
   padding: 15px;
 }
 
-.main img {
+.container img {
   border-radius: 12px;
   margin-bottom: 20px;
 }
 
-.main h2 {
+.container h2 {
   color: var(--dark-blue);
-  font-size: 22px;
+  font-size: 1.4em;
   text-align: center;
   padding: 5px;
 }
 
-.main p {
+.container p {
   color: var(--grayish-blue);
-  font-size: 15px;
+  font-size: 0.95em;
   text-align: center;
   padding: 13px;
 }
@@ -54,9 +60,10 @@ body {
 
 /* standard code that comes with the challenge */
 .attribution {
-  font-size: 15px; /* original was 11px */
+  font-size: 14px; /* original was 11px */
   text-align: center;
   margin-bottom: 5px; /* original had no margin-bottom */
+  margin-top: -25px; /* original had no margin-top */
 }
 .attribution a {
   color: hsl(0, 0%, 0%);
