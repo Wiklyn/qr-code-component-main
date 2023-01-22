@@ -29,7 +29,7 @@ I started by making the HTML5 part. I wrote the code on one div divided on an im
 ### Useful resources
 
 - [APRENDA TUDO SOBRE MEDIA QUERY - COMO DEIXAR UM SITE RESPONSIVO
-](https://www.youtube.com/watch?v=jEf_zX4fKqU) - This helped me understand how to use the media querry technique.
+](https://www.youtube.com/watch?v=jEf_zX4fKqU) - This helped me understand how to use the media querry technique. (Although I ended up not using it)
 
 ## Author
 
